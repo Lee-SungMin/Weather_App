@@ -50,7 +50,7 @@ About the team<br><br>
 - tudac
 
 ### Team Icon
-
+<img src = "./image/icontudac.jpg" width = " 400">
 
 ### Team Member
 
