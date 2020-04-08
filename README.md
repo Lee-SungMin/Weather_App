@@ -15,11 +15,8 @@ OSS_Introduction
 
 Who am I?<br><br>
 -------------
-<br>
-<br>
-저에 대한 자세한 내용이 궁금하다면 [여기][1]를 눌러주세요.
-<br>
-<br>
+
+저에 대한 자세한 내용이 궁금하다면 [여기][1]를 눌러주세요.<br>
 
 #### :information_desk_person: Name
 > 이성민 (Lee SungMin) 
