@@ -51,12 +51,12 @@ About the team<br><br>
 
 ### Team Member
 
-| Name     | Shcool ID   |              Github.io Link                |
-| :------- | :---------- | :----------------------------------------- |
-| 길정민    | 2019095414  |  [Jungmin Gil](kjmin622.github.io)         |
-| 김혜원    | 2019028313  |  [iopopoi](iopopoi.github.io)              |
-| 이성민    | 2019000773  |  [Lee-SungMin](lee-sungmin.github.io)      |
-| 이현지    | 2019052251  |  [huskycat1202](huskycat1202.github.io)    |
+| Name     | Shcool ID   |                Github.io Link                             |
+| :------- | :---------- | :-------------------------------------------------------  |
+| 길정민    | 2019095414  |  [Jungmin Gil](https://kjmin622.github.io/)               |
+| 김혜원    | 2019028313  |  [iopopoi](https://iopopoi.github.io/)                    |
+| 이성민    | 2019000773  |  [Lee-SungMin](https://lee-sungmin.github.io/)            |
+| 이현지    | 2019052251  |  [huskycat1202](https://huskycat1202.github.io/)          |
 
 
 [1]:https://lee-sungmin.github.io/
