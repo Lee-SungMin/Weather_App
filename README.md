@@ -20,22 +20,22 @@ Who am I?
 <br>
 <br>
 
-#### <i class="icon-user"></i> Name
+#### :information_desk_person: Name
 > 이성민 (Lee SungMin) 
 
-#### <i class="icon-id-card"></i> Student ID
+#### :credit_card: Student ID
 > 2019000773 
 
-#### <i class="icon-school"></i> School
+#### :school: School
 > 한양대학교 에리카 (Hanyang University ERICA)
 
 
-#### <i class="icon-pencil-alt"></i> Major
+#### :computer: Major
 > 소프트웨어전공 (Software)
 
 
-#### <i class="icon-mail-bulk"></i> E-Mail
-> saevers3@naver.com
+#### :e-mail: E-Mail
+> saevers3@naver.com<br>
 > saevers26@gmail.com
 
 
