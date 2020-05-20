@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\app",
+    "\\app\\libs",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\gradle",
+    "\\gradle\\wrapper"
+  ],
+  "SelectedNode": "\\app\\src\\main",
+  "PreviewInSolutionExplorer": false
+}
